@@ -38,8 +38,8 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 # get a github account at github.com
 # go to http://github.com/kevinburke/goodmorningcmc and click "fork"
-# clone the good morning cmc repo into folder "goodmorningcmc"
-$ git clone git@github.com:kevinburke/goodmorningcmc.git
+# clone the good morning cmc repo from your own account into folder "goodmorningcmc"
+$ git clone git@github.com:yourAccountName/goodmorningcmc.git
 
 # now to add several uncloned files
 # let's say you want the good morning CMC database:
